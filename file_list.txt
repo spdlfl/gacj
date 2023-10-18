@@ -1,0 +1,12 @@
+total 0
+-rw-r--r-- 1 HA 197121 0 Oct 18 13:47 README.md
+-rw-r--r-- 1 HA 197121 0 Oct 18 13:47 classifiaction_experiment.py
+-rw-r--r-- 1 HA 197121 0 Oct 18 14:13 file_list.txt
+drwxr-xr-x 1 HA 197121 0 Oct 18 13:56 hello_world/
+drwxr-xr-x 1 HA 197121 0 Oct 18 14:12 test.sh/
+total 1.0K
+-rw-r--r-- 1 HA 197121   0 Oct 18 13:47 README.md
+-rw-r--r-- 1 HA 197121   0 Oct 18 13:47 classifiaction_experiment.py
+-rw-r--r-- 1 HA 197121 273 Oct 18 14:13 file_list.txt
+drwxr-xr-x 1 HA 197121   0 Oct 18 13:56 hello_world/
+drwxr-xr-x 1 HA 197121   0 Oct 18 14:12 test.sh/
